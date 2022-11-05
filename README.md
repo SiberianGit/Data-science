@@ -4,4 +4,4 @@ From the [SkillFactory Data Science course](https://github.com/SiberianGit/Data-
 
 ## Проекты
 
-* [Проект 0. Игра: угадай число]
+* [Проект 0. Игра: угадай число](https://github.com/SiberianGit/Data-science/tree/main/project_1)
